@@ -1,5 +1,5 @@
 {
-  //"url": "http://192.168.31.8/petloversservice/Service1.svc"
+  "url": "http://192.168.31.8/petloversservice/Service1.svc"
   //"url": "http://192.168.40.18/petloversservice/Service1.svc"
-  "url": "https://asv.unichemindo.com/utilityappsservices/Service1.svc"
+  //"url": "https://asv.unichemindo.com/utilityappsservices/Service1.svc"
 }
